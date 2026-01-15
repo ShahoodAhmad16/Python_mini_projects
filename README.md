@@ -29,3 +29,4 @@ This repository contains a collection of small Python projects for learning and 
 1. Clone this repository:
 
 ```bash
+https://github.com/ShahoodAhmad16/Python_mini_projects.git
