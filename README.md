@@ -16,7 +16,16 @@ This repository contains a collection of small Python projects for learning and 
 
 4. **Task To-Do List Manager**  
    A program to manage tasks, allowing you to add, view, update, and delete tasks from your to-do list.
-
+   
+5. **Number Guessing Game**
+   A simple game where the player tries to guess a randomly generated number.
+   
+6. **Multiplication Table Generator**
+   A program that generates the multiplication table of a number entered by the user.
+   
+7. **Simple Calculator**
+   A basic calculator that performs operations such as addition, subtraction, multiplication, and division.
+   
 ## Features
 
 - Easy-to-understand Python code
